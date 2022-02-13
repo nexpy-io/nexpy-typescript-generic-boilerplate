@@ -3,5 +3,5 @@ dist
 
 .husky
 .vscode
-.circleci
 coverage
+nexpy-typescript-generic-boilerplate
